@@ -1,0 +1,16 @@
+{
+  "name": "khodam-api",
+  "version": "1.0.0",
+  "description": "API untuk menampilkan khodam secara acak",
+  "scripts": {
+    "vercel-build": "echo 'Vercel build step completed.'"
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
+  "author": "Vynaa Valerie",
+  "license": "MIT"
+}
