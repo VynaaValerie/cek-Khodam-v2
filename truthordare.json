@@ -1,0 +1,325 @@
+{
+  "truth_or_dare": [
+    {
+      "type": "truth",
+      "question": "Siapa orang terakhir yang kamu chat hari ini?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Kirim pesan acak ke orang terakhir yang kamu chat dengan kata-kata 'Aku punya rahasia besar.'"
+    },
+    {
+      "type": "truth",
+      "question": "Apa rahasia terbesar yang belum pernah kamu ceritakan ke siapa pun?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Lakukan tarian yang aneh selama 30 detik dan kirim video ke grup chat."
+    },
+    {
+      "type": "truth",
+      "question": "Jika kamu bisa mengubah satu hal tentang dirimu, apa yang akan kamu ubah?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Posting foto teraneh di galeri kamu ke media sosialmu."
+    },
+    {
+      "type": "truth",
+      "question": "Siapa yang menurutmu paling menarik di sini?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Makan satu sendok penuh saus atau kecap."
+    },
+    {
+      "type": "truth",
+      "question": "Hal paling memalukan apa yang pernah kamu alami di depan umum?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Nyanyikan lagu favoritmu dengan suara paling keras yang kamu bisa."
+    },
+    {
+      "type": "truth",
+      "question": "Apa kebiasaan buruk yang ingin kamu hilangkan?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Lakukan 20 push-up tanpa berhenti."
+    },
+    {
+      "type": "truth",
+      "question": "Apakah kamu pernah berbohong untuk menghindari masalah?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Pura-pura menjadi binatang pilihan temanmu selama 1 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Siapa cinta pertamamu?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Posting status aneh di media sosial seperti 'Aku sedang berpikir keras tentang segalanya.'"
+    },
+    {
+      "type": "truth",
+      "question": "Apa ketakutan terbesar yang kamu miliki?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Panggil salah satu temanmu dan ceritakan lelucon yang buruk."
+    },
+    {
+      "type": "truth",
+      "question": "Apa momen paling bahagia dalam hidupmu?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Berjalan mundur ke kamar lain selama 30 detik tanpa menabrak apapun."
+    },
+    {
+      "type": "truth",
+      "question": "Siapa yang pernah membuatmu patah hati?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Tirukan seseorang selama 2 menit tanpa berhenti."
+    },
+    {
+      "type": "truth",
+      "question": "Apa kebohongan terbesar yang pernah kamu ceritakan?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Tutup mata dan buat gambar di selembar kertas, tunjukkan kepada semua orang."
+    },
+    {
+      "type": "truth",
+      "question": "Apa hal paling gila yang pernah kamu lakukan?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Berdiri dengan satu kaki selama 1 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Jika kamu bisa menjadi orang lain selama sehari, siapa yang akan kamu pilih?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Coba berjalan seperti robot selama 1 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Apa kebiasaan paling aneh yang kamu miliki?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Gulung dirimu dalam selimut dan pura-pura menjadi burrito selama 1 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Pernahkah kamu diam-diam menyukai sahabatmu?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Makan makanan dengan tangan terbalik selama 1 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Apa mimpi teraneh yang pernah kamu alami?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Lompat seperti katak selama 1 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Jika kamu bisa memiliki kekuatan super, kekuatan apa yang kamu pilih?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Cobalah bicara tanpa menggunakan huruf vokal selama 1 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Pernahkah kamu menyontek saat ujian?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Kirim pesan 'Aku punya kabar besar untukmu' ke kontak terakhir di ponselmu."
+    },
+    {
+      "type": "truth",
+      "question": "Apa hal paling aneh yang pernah kamu makan?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Beri tahu temanmu bahwa kamu memiliki mimpi aneh tentang mereka."
+    },
+    {
+      "type": "truth",
+      "question": "Pernahkah kamu naksir seseorang tapi takut mengungkapkan?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Tirukan suara hewan pilihan temanmu selama 30 detik."
+    },
+    {
+      "type": "truth",
+      "question": "Siapa temanmu yang paling menyebalkan tapi tetap kamu sayangi?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Berjalan dengan mata tertutup selama 1 menit, jangan jatuh!"
+    },
+    {
+      "type": "truth",
+      "question": "Jika kamu harus pindah ke negara lain, negara mana yang akan kamu pilih?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Buat wajah paling aneh dan tahan selama 30 detik."
+    },
+    {
+      "type": "truth",
+      "question": "Apa lagu yang selalu bisa membuatmu menangis?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Tahan nafas selama 20 detik."
+    },
+    {
+      "type": "truth",
+      "question": "Siapa orang yang paling sering muncul di mimpimu?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Tulis pesan cinta untuk seseorang dan kirimkan ke kontak acak."
+    },
+    {
+      "type": "truth",
+      "question": "Apa yang akan kamu lakukan jika memenangkan lotre?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Pakai kaus kaki di tanganmu selama 5 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Pernahkah kamu mengalami kejadian paranormal?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Makan sesuatu tanpa menggunakan tanganmu."
+    },
+    {
+      "type": "truth",
+      "question": "Apa hal pertama yang kamu lakukan ketika bangun pagi?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Bicara seperti robot selama 1 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Apa hal paling memalukan yang pernah kamu lakukan saat mabuk?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Pakai sepatu terbalik selama 1 jam."
+    },
+    {
+      "type": "truth",
+      "question": "Siapa orang yang paling kamu sayangi dalam hidup ini?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Rekam dirimu menyanyi lagu favoritmu dengan gaya opera."
+    },
+    {
+      "type": "truth",
+      "question": "Apa yang paling kamu takuti kehilangan?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Berpura-pura menjadi presenter berita selama 2 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Apakah kamu percaya pada cinta pada pandangan pertama?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Gulung dirimu dalam selimut dan berpura-pura menjadi ulat selama 2 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Jika kamu hanya punya waktu satu hari lagi untuk hidup, apa yang akan kamu lakukan?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Coba menirukan salah satu hewan favoritmu selama 1 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Apakah kamu pernah jatuh cinta pada pandangan pertama?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Lakukan tarian ala robot selama 1 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Apakah kamu lebih suka bekerja sendiri atau dalam tim?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Tahan posisi jongkok selama 1 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Siapa orang yang paling kamu percaya dalam hidup ini?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Berjalan di sekitar ruangan dengan tangan di atas kepala selama 2 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Jika kamu bisa tinggal di mana saja di dunia ini, di mana kamu akan tinggal?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Bicara dengan aksen yang lucu selama 3 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Apa kebohongan terbesar yang pernah kamu katakan?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Nyanyikan lagu nasional dengan gaya rap."
+    },
+    {
+      "type": "truth",
+      "question": "Jika kamu bisa menghapus satu kenangan, kenangan apa yang akan kamu hapus?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Pura-pura sedang berenang di tanah selama 1 menit."
+    },
+    {
+      "type": "truth",
+      "question": "Apakah kamu lebih memilih kaya tapi tidak bahagia atau miskin tapi bahagia?"
+    },
+    {
+      "type": "dare",
+      "challenge": "Katakan sesuatu yang lucu menggunakan hanya isyarat tangan."
+    }
+  ]
+    }
+      
